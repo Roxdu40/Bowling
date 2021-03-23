@@ -1,0 +1,3 @@
+function [] = Quille ()
+
+global g
